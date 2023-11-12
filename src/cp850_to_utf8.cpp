@@ -1,4 +1,5 @@
 #include <string>
+#include <cstdint>
 
 static std::string cp8500toUTF8Map[256] = {
 /* 0 */ "\x00", /* 263A */ "\xE2\x98\xBA", /* 263B */ "\xE2\x98\xBB", /* 2665 */ "\xE2\x99\xA5",
